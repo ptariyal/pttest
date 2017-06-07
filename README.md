@@ -1,2 +1,2 @@
 # pttest
-test
+test - read me file 
